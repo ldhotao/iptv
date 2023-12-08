@@ -275,8 +275,8 @@ http://tv.328326.com/iptv/cd.php?id=hdzh
 http://tv.328326.com/iptv/cd.php?id=kpzh
 #EXTINF:-1 ,开平生活
 http://tv.328326.com/iptv/cd.php?id=kpsh
-#EXTINF:-1 ,====== 四会新闻综合,http:tv.328326.com/iptv/cd.php?id=shzh ======
-http://4/4.m3u8
+#EXTINF:-1 ,四会新闻综合
+http://tv.328326.com/iptv/cd.php?id=shzh
 #EXTINF:-1 ,广宁综合
 http://tv.328326.com/iptv/cd.php?id=gnzh
 #EXTINF:-1 ,工布江达县广播电视台
@@ -300,7 +300,7 @@ http://tv.328326.com/iptv/cd.php?id=lzzh
 #EXTINF:-1 ,阳春综合
 http://tv.328326.com/iptv/cd.php?id=yczh
 #EXTINF:-1 ,佛冈综合
-http:tv.328326.com/iptv/cd.php?id=fgzh
+http://tv.328326.com/iptv/cd.php?id=fgzh
 #EXTINF:-1 ,怀集综合
 http://tv.328326.com/iptv/cd.php?id=hjzh
 #EXTINF:-1 ,惠阳电视台
