@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,====== 央视,#genre# ======
+http://0/0.m3u8
 #EXTINF:-1 ,CCTV-1
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 ,CCTV-2
@@ -37,18 +39,8 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
 #EXTINF:-1 ,CGTN英语
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8
-#EXTINF:-1 ,凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 ,凤凰深圳旁边
-http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 ,CHC动作电影
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,CHC家庭影院
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,CHC高清电影
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,====== 卫视,#genre# ======
+http://1/1.m3u8
 #EXTINF:-1 ,内蒙古卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
 #EXTINF:-1 ,北京卫视
@@ -119,6 +111,20 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8
 #EXTINF:-1 ,厦门卫视
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
+#EXTINF:-1 ,====== 其他,#genre# ======
+http://2/2.m3u8
+#EXTINF:-1 ,凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 ,凤凰深圳旁边
+http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,CHC家庭影院
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,CHC高清电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,中国教育1台
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
 #EXTINF:-1 ,中国教育2台
@@ -141,7 +147,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
 #EXTINF:-1 ,七彩戏剧
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
-#EXTINF:-1 ,第一财*
+#EXTINF:-1 ,第一财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
 #EXTINF:-1 ,上海教育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
@@ -149,7 +155,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 ,东方影视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
-#EXTINF:-1 ,东方财*
+#EXTINF:-1 ,东方财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
 #EXTINF:-1 ,欢笑剧场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
@@ -181,7 +187,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001098/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
 #EXTINF:-1 ,快乐垂钓
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
-#EXTINF:-1 ,"广东频道",嘉佳卡通
+#EXTINF:-1 ,嘉佳卡通
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
 #EXTINF:-1 ,兵器科技
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
@@ -213,6 +219,120 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
 #EXTINF:-1 ,中国天气
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
+#EXTINF:-1 ,====== 地方台,#genre# ======
+http://3/3.m3u8
+#EXTINF:-1 ,广东卫视
+http://tv.328326.com/iptv/cd.php?id=gdws
+#EXTINF:-1 ,广东珠江
+http://tv.328326.com/iptv/cd.php?id=gdzj
+#EXTINF:-1 ,大湾区卫视
+http://tv.328326.com/iptv/cd.php?id=nfws
+#EXTINF:-1 ,广东民生
+http://tv.328326.com/iptv/cd.php?id=gdms
+#EXTINF:-1 ,广东新闻
+http://tv.328326.com/iptv/cd.php?id=gdxw
+#EXTINF:-1 ,广东经济科教
+http://tv.328326.com/iptv/cd.php?id=gdjjkj
+#EXTINF:-1 ,广东体育
+http://tv.328326.com/iptv/cd.php?id=gdty
+#EXTINF:-1 ,广东少儿
+http://tv.328326.com/iptv/cd.php?id=gdse
+#EXTINF:-1 ,广东影视
+http://tv.328326.com/iptv/cd.php?id=gdys
+#EXTINF:-1 ,嘉佳卡通
+http://tv.328326.com/iptv/cd.php?id=jjkt
+#EXTINF:-1 ,广东国际
+http://tv.328326.com/iptv/cd.php?id=gdgj
+#EXTINF:-1 ,广东移动
+http://tv.328326.com/iptv/cd.php?id=gdyd
+#EXTINF:-1 ,广东综艺4K
+http://tv.328326.com/iptv/cd.php?id=gdzy
+#EXTINF:-1 ,GRTN文化频道
+http://tv.328326.com/iptv/cd.php?id=gdwh
+#EXTINF:-1 ,肇庆综合
+http://tv.328326.com/iptv/cd.php?id=zqzh
+#EXTINF:-1 ,肇庆公共
+http://tv.328326.com/iptv/cd.php?id=zqgg
+#EXTINF:-1 ,惠州新闻综合
+http://tv.328326.com/iptv/cd.php?id=hzxw
+#EXTINF:-1 ,清远综合
+http://tv.328326.com/iptv/cd.php?id=qyzh
+#EXTINF:-1 ,梅州综合
+http://tv.328326.com/iptv/cd.php?id=mzzh
+#EXTINF:-1 ,河源综合
+http://tv.328326.com/iptv/cd.php?id=hyzh
+#EXTINF:-1 ,河源公共
+http://tv.328326.com/iptv/cd.php?id=hygg
+#EXTINF:-1 ,连平台
+http://tv.328326.com/iptv/cd.php?id=lpzh
+#EXTINF:-1 ,阳江-1
+http://tv.328326.com/iptv/cd.php?id=yjtv1
+#EXTINF:-1 ,阳江-2
+http://tv.328326.com/iptv/cd.php?id=yjtv2
+#EXTINF:-1 ,惠东综合
+http://tv.328326.com/iptv/cd.php?id=hdzh
+#EXTINF:-1 ,开平综合
+http://tv.328326.com/iptv/cd.php?id=kpzh
+#EXTINF:-1 ,开平生活
+http://tv.328326.com/iptv/cd.php?id=kpsh
+#EXTINF:-1 ,====== 四会新闻综合,http:tv.328326.com/iptv/cd.php?id=shzh ======
+http://4/4.m3u8
+#EXTINF:-1 ,广宁综合
+http://tv.328326.com/iptv/cd.php?id=gnzh
+#EXTINF:-1 ,工布江达县广播电视台
+http://tv.328326.com/iptv/cd.php?id=gbjd
+#EXTINF:-1 ,化州综合
+http://tv.328326.com/iptv/cd.php?id=hzzh
+#EXTINF:-1 ,鹤山综合
+http://tv.328326.com/iptv/cd.php?id=hszh
+#EXTINF:-1 ,廉江综合
+http://tv.328326.com/iptv/cd.php?id=ljzh
+#EXTINF:-1 ,英德新闻综合
+http://tv.328326.com/iptv/cd.php?id=ydxw
+#EXTINF:-1 ,清新综合
+http://tv.328326.com/iptv/cd.php?id=qxzh
+#EXTINF:-1 ,普宁综合
+http://tv.328326.com/iptv/cd.php?id=pnzh
+#EXTINF:-1 ,紫金综合
+http://tv.328326.com/iptv/cd.php?id=zjzh
+#EXTINF:-1 ,连州综合
+http://tv.328326.com/iptv/cd.php?id=lzzh
+#EXTINF:-1 ,阳春综合
+http://tv.328326.com/iptv/cd.php?id=yczh
+#EXTINF:-1 ,佛冈综合
+http:tv.328326.com/iptv/cd.php?id=fgzh
+#EXTINF:-1 ,怀集综合
+http://tv.328326.com/iptv/cd.php?id=hjzh
+#EXTINF:-1 ,惠阳电视台
+http://tv.328326.com/iptv/cd.php?id=hytv
+#EXTINF:-1 ,信宜综合
+http://tv.328326.com/iptv/cd.php?id=xyzh
+#EXTINF:-1 ,徐闻综合
+http://tv.328326.com/iptv/cd.php?id=xwzh
+#EXTINF:-1 ,阳西综合
+http://tv.328326.com/iptv/cd.php?id=yxzh
+#EXTINF:-1 ,台山台
+http://tv.328326.com/iptv/cd.php?id=tstv
+#EXTINF:-1 ,遂溪台
+http://tv.328326.com/iptv/cd.php?id=sxtv
+#EXTINF:-1 ,新会综合
+http://tv.328326.com/iptv/cd.php?id=xhzh
+#EXTINF:-1 ,罗定综合
+http://tv.328326.com/iptv/cd.php?id=ldzh
+#EXTINF:-1 ,和平综合
+http://tv.328326.com/iptv/cd.php?id=hpzh
+#EXTINF:-1 ,东源台
+http://tv.328326.com/iptv/cd.php?id=dytv
+#EXTINF:-1 ,吴川综合
+http://tv.328326.com/iptv/cd.php?id=wczh
+#EXTINF:-1 ,乐昌电视台
+http://tv.328326.com/iptv/cd.php?id=lctv
+#EXTINF:-1 ,潮安综合
+http://tv.328326.com/iptv/cd.php?id=cazh
+#EXTINF:-1 ,恩平综合
+http://tv.328326.com/iptv/cd.php?id=epzh
+#EXTINF:-1 ,====== 咪咕直播,#genre# ======
+http://6/6.m3u8
 #EXTINF:-1 ,咪咕直播-1
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 #EXTINF:-1 ,咪咕直播-2
