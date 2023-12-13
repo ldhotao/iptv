@@ -331,8 +331,6 @@ http://tv.328326.com/iptv/cd.php?id=lctv
 http://tv.328326.com/iptv/cd.php?id=cazh
 #EXTINF:-1 ,恩平综合
 http://tv.328326.com/iptv/cd.php?id=epzh
-#EXTINF:-1 ,====== 咪咕直播,#genre# ======
-http://6/6.m3u8
 #EXTINF:-1 ,====== 超高清频道,#genre# ======
 http://3/3.m3u8
 #EXTINF:-1 ,4K UHD
@@ -547,7 +545,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1933659217_-178892440
 http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2442197200_-2076384633/ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8?icpid=3&RTS=1674369672&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 #EXTINF:-1 ,NewTV金牌综艺
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2614190807_1624483481/ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8?icpid=3&RTS=1674387024&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
-
+#EXTINF:-1 ,====== 咪咕直播,#genre# ======
+http://6/6.m3u8
 #EXTINF:-1 ,咪咕直播-1
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 #EXTINF:-1 ,咪咕直播-2
