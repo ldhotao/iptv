@@ -232,6 +232,8 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
 #EXTINF:-1 ,====== 地方台,#genre# ======
 http://3/3.m3u8
 #EXTM3U
+#EXTINF:-1 ,广东体育
+广东体育,http://r.jdshipin.com/LiYdg
 #EXTINF:-1 ,翡翠台
 http://r.jdshipin.com/GeWKr?id=fct720
 #EXTINF:-1 ,TVB星河
