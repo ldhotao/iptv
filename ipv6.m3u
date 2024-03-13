@@ -43,6 +43,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 #EXTINF:-1 ,====== 卫视,#genre# ======
 http://1/1.m3u8
+#EXTM3U
 #EXTINF:-1 ,湖南卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,浙江卫视
@@ -72,15 +73,15 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225978/index.m3u8
 #EXTINF:-1 ,河北卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010101/1.m3u8
 #EXTINF:-1 ,黑龙江卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7001:20:1000::97]:6610/000000001000/1000000001000009082/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=00
 #EXTINF:-1 ,河南卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010071/1.m3u8
+http://[2409:8087:7001:20:1000::97]:6610/000000001000/1000000002000027731/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=00
 #EXTINF:-1 ,湖北卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,江西卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010060/1.m3u8
 #EXTINF:-1 ,吉林卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010075/1.m3u8
+http://[2409:8087:7001:20:1000::97]:6610/000000001000/1000000002000027730/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=00
 #EXTINF:-1 ,辽宁卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,山东卫视
@@ -94,7 +95,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3
 #EXTINF:-1 ,云南卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
 #EXTINF:-1 ,新疆卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010116/1.m3u8
+http://[2409:8087:7001:20:1000::97]:6610/000000001000/1000000002000029441/index.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=00
 #EXTINF:-1 ,三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 ,青海卫视
@@ -104,7 +105,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001062/index.m3
 #EXTINF:-1 ,山西卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,西藏卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001302/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 #EXTINF:-1 ,内蒙古卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,宁夏卫视
@@ -112,7 +113,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001061/index.m3
 #EXTINF:-1 ,兵团卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001304/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,安多卫视
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7001:20:1000::86]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,康巴卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,大湾区卫视
@@ -125,7 +126,6 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,广东珠江
 http://[2409:8087:7001:20:1000::86]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-
 #EXTINF:-1 ,====== 其他,#genre# ======
 http://2/2.m3u8
 #EXTINF:-1 ,凤凰中文
@@ -429,6 +429,39 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 ,金砖中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,俄罗斯中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,欧洲体育
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 ,法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 ,法国时尚4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 ,欧洲华文1
+http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+#EXTINF:-1 ,欧洲华文2
+http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+#EXTINF:-1 ,欧洲华文6
+http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
+#EXTINF:-1 ,欧洲华文6
+http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+#EXTINF:-1 ,动物频道
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 ,红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 ,国外体育6
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,环球电视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 ,香港32台
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
+#EXTINF:-1 ,香港33台
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 ,香港34台
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 ,香港34台
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
 #EXTINF:-1 ,====== 超高清频道,#genre# ======
 http://5/5.m3u8
 #EXTINF:-1 ,4K UHD
