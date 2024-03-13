@@ -1,7 +1,7 @@
 央视,#genre#
 CCTV1,http://[2409:8087:7001:20:1000::97]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=00
 CCTV2,http://[2409:8087:7001:20:1000::97]:6610/000000001000/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=00
-CCTV3,http://[2409:8087:7001:20:1000::97]:6610/000000001000/1000000001000013682/index.m3u8?channel-id=ystenlive&Contentid=10000000010000136828&livemode=1&stbId=00
+CCTV3,http://[2409:8087:7001:20:1000::97]:6610/000000001000/1000000005000265003/index.m3u8?channel-id=ystenlive&Contentid=10000000050002650038&livemode=1&stbId=00
 CCTV4,http://[2409:8087:7001:20:1000::97]:6610/000000001000/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=00
 CCTV5,http://[2409:8087:7001:20:1000::97]:6610/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=00
 CCTV5+,http://[2409:8087:7001:20:1000::97]:6610/000000001000/1000000001000018504/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=00
@@ -211,6 +211,22 @@ ViuTV,http://146.56.153.245:8006/bysid/99
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8  
+俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+欧洲体育,http://europa-crtvg.flumotion.com/playlist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+欧洲华文1,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+欧洲华文2,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+欧洲华文6,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
+欧洲华文6,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+国外体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8 
+香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
+香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+香港34台,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 超高清频道,#genre#
 4K UHD,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 4K UHD,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
@@ -367,7 +383,7 @@ NewTV金牌综艺,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw261
 咪咕直播-41,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 咪咕直播-42,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 
-百事通,#genre#
+#####百事通,#genre#
 BesTV1,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226134/1.m3u8
 BesTV2,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226130/1.m3u8
 BesTV3,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226145/1.m3u8
