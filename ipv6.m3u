@@ -126,6 +126,8 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,广东珠江
 http://[2409:8087:7001:20:1000::86]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 ,广东珠江
+http://222.218.159.100:8181/tsfile/live/1000_1.m3u8
 #EXTINF:-1 ,====== 其他,#genre# ======
 http://2/2.m3u8
 #EXTINF:-1 ,凤凰中文
