@@ -64,7 +64,7 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 其他,#genre#
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-凤凰香港,http://113.64.145.228:8081/hls/38/index.m3u8
+凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 求索纪录,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索科学,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索动物,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
@@ -203,12 +203,12 @@ CETV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001308/in
 韶关新闻综合高清,http://ddns.cyruslee.top:8888/udp/239.77.0.117:5146
 韶关绿色生活高清,http://ddns.cyruslee.top:8888/udp/239.77.0.119:5146
 测试,#genre#
-翡翠台,http://sz.l68.fun:9000/bysid/1
-明珠台,http://sz.l68.fun:9001/bysid/2
-J2台,http://sz.l68.fun:9001/bysid/82
-無綫新聞台,http://sz.l68.fun:9001/bysid/83
-ViuTVsix,http://146.56.153.245:8006/bysid/96
-ViuTV,http://146.56.153.245:8006/bysid/99
+无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
+无线财经,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
+明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
+TVB J2,http://1.65.195.85:9981/stream/channelid/2082072924?profile=pass
+TVB News,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
+TVB FSI,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8  
@@ -216,10 +216,6 @@ ViuTV,http://146.56.153.245:8006/bysid/99
 欧洲体育,http://europa-crtvg.flumotion.com/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-欧洲华文1,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-欧洲华文2,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-欧洲华文6,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
-欧洲华文6,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 国外体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
