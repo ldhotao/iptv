@@ -104,6 +104,8 @@ CHC家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373
 海南三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/0.m3u8
 测试,#genre#
 无线,http://php.jdshipin.com:8880/smt.php?id=inews_twn#http://live.cooltv.top/tv/tvb.php?id=0
+翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+viutv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 超高清频道,#genre#
 4K UHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 8K UHD,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/PLTV/1/224/3221230904/1.m3u8
