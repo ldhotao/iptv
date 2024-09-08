@@ -72,11 +72,11 @@ CHC影迷电影,http://e.wikos.cn:8800/rtp/239.37.0.187:5540#http://video.qd.sdu
 CHC动作电影,http://e.wikos.cn:8800/rtp/239.37.0.186:5540#http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 CHC家庭影院,http://e.wikos.cn:8800/rtp/239.37.0.188:5540#http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
 优漫卡通,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010118/0.m3u8
-卡酷少儿,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+卡酷少儿,http://php.jdshipin.com:8880/bestv.php?id=kkse8m/8000000#http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 金鹰纪实,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010106/0.m3u8
 嘉佳卡通,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010102/0.m3u8
 金鹰卡通,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010107/0.m3u8
-哈哈炫动,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010117/0.m3u8
+哈哈炫动,http://php.jdshipin.com:8880/bestv.php?id=hhxd8m/8000000#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010117/0.m3u8
 山东教育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010112/0.m3u8
 纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
@@ -95,7 +95,7 @@ CHC家庭影院,http://e.wikos.cn:8800/rtp/239.37.0.188:5540#http://video.qd.sdu
 欢笑剧场4K,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 生活时尚,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 乐游频道,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-金色学堂,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+金色学堂,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989#http://php.jdshipin.com:8880/bestv.php?id=jingsepd8m/8000000
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/0.m3u8
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/0.m3u8
