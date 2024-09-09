@@ -106,7 +106,7 @@ CHC家庭影院,http://e.wikos.cn:8800/rtp/239.37.0.188:5540#http://video.qd.sdu
 海南三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/0.m3u8
 测试,#genre#
 无线,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw#http://live.cooltv.top/tv/tvb.php?id=0#p3p://173.208.176.178:19806/653e4818000b73240c7d19181340415e
-翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4##p3p://173.208.176.178:19806/653e4c02000ea0440c8c63fd3e5d709d
+翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4#p3p://173.208.176.178:19806/653e4c02000ea0440c8c63fd3e5d709d
 明珠,p3p://173.208.176.178:19806/602f1ba9000814efa6f2970333d309d9
 viutv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 香港卫视台,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#p3p://173.208.176.178:19806/655f9ff5000f136f8ebbd33f2f097512
