@@ -60,9 +60,9 @@ CETV-4SD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010105/0.m
 CGTN SD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010137/0.m3u8
 CGTN SD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/0.m3u8
 其他,#genre#
-凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#p3p://173.208.176.178:19806/5fffbf860003807cedf4e1016c3c3ed2#http://eastscreen.tv/ooooo.php?id=fhzx
-凤凰卫视,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8#http://www.erbao1981.top:8188/udp/239.76.246.135:1234#p3p://173.208.176.178:19806/602c73500002f4d29c90fa1270f21160#http://eastscreen.tv/ooooo.php?id=fhws
-凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8#http://www.mytvsuper.us.kg/live.php?id=phk#http://www.erbao1981.top:8188/udp/239.76.246.134:1234#p3p://173.208.176.178:19806/5fe0b82c000cac9774c17f262e43314d
+凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰卫视,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8#http://www.erbao1981.top:8188/udp/239.76.246.135:1234
+凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8#http://www.mytvsuper.us.kg/live.php?id=phk#http://www.erbao1981.top:8188/udp/239.76.246.134:1234
 求索纪录,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
 求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 求索动物,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
@@ -105,10 +105,9 @@ CHC家庭影院,http://e.wikos.cn:8800/rtp/239.37.0.188:5540#http://video.qd.sdu
 海南三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/0.m3u8
 测试,#genre#
 无线,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw#http://live.cooltv.top/tv/tvb.php?id=0#p3p://173.208.176.178:19806/653e4818000b73240c7d19181340415e
-翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4#p3p://173.208.176.178:19806/653e4c02000ea0440c8c63fd3e5d709d
-明珠,p3p://173.208.176.178:19806/602f1ba9000814efa6f2970333d309d9
+翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 viutv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-香港卫视台,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#p3p://173.208.176.178:19806/655f9ff5000f136f8ebbd33f2f097512
+香港卫视台,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 Now星影台,http://php.jdshipin.com/TVOD/iptv.php?id=xyt
