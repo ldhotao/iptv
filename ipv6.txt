@@ -109,6 +109,8 @@ CHC家庭影院,http://e.wikos.cn:8800/rtp/239.37.0.188:5540#http://58.59.47.242
 翡翠,https://console.567852.xyz/stream/tvb/feicui/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 viutv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 明珠,https://console.567852.xyz/stream/tvb/pearl/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+华语剧台,https://console.567852.xyz/stream/tvb/cdr3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+娱乐,https://console.567852.xyz/stream/tvb/ctve/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 香港卫视台,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
@@ -122,13 +124,13 @@ Channel [V],http://php.jdshipin.com/TVOD/iptv.php?id=v
 美亚C+HD,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-东森新闻台,http://free.xiptv.x10.bz/kudou.php?id=75#p3p://108.181.32.169:34778/64251f9700046520ea5ce8b85b6c11da
-tvbs新闻台,http://free.xiptv.x10.bz/kudou.php?id=78#p3p://173.208.176.178:19806/621858e3000e70ad1217c0700d576ad0
-寰宇新闻台,http://free.xiptv.x10.bz/kudou.php?id=76#p3p://173.208.176.178:19806/653cd4a900049a4206d258a92e941b10
-三立新闻台,http://free.xiptv.x10.bz/kudou.php?id=79#p3p://173.208.176.178:19806/6014c896000c7101401f67cc5477681b
-民视新闻台,http://free.xiptv.x10.bz/kudou.php?id=84#p3p://173.208.176.178:19806/602f1f4a000aa86fa700c49817387f81
-中视新闻台,http://free.xiptv.x10.bz/kudou.php?id=80#p3p://173.208.176.178:19806/61ff2b9d0004cfe6bb9a99f71e1c4c92
-台视新闻台,http://free.xiptv.x10.bz/kudou.php?id=81#p3p://173.208.176.178:19806/62caf1dc000525b3cbb4de6e3c0e2af8
+东森新闻台,p3p://108.181.32.169:34778/64251f9700046520ea5ce8b85b6c11da
+tvbs新闻台,p3p://173.208.176.178:19806/621858e3000e70ad1217c0700d576ad0
+寰宇新闻台,p3p://173.208.176.178:19806/653cd4a900049a4206d258a92e941b10
+三立新闻台,p3p://173.208.176.178:19806/6014c896000c7101401f67cc5477681b
+民视新闻台,p3p://173.208.176.178:19806/602f1f4a000aa86fa700c49817387f81
+中视新闻台,p3p://173.208.176.178:19806/61ff2b9d0004cfe6bb9a99f71e1c4c92
+台视新闻台,p3p://173.208.176.178:19806/62caf1dc000525b3cbb4de6e3c0e2af8
 bestv,#genre#
 华语影院,http://php.jdshipin.com/bestv.php?id=hyyy8m/8000000
 星光影院,http://php.jdshipin.com/bestv.php?id=xgyy8m/8000000
