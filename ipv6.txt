@@ -123,7 +123,11 @@ Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Channel [V],http://php.jdshipin.com/TVOD/iptv.php?id=v
 美亚C+HD,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 东森新闻台,p3p://108.181.32.169:34778/64251f9700046520ea5ce8b85b6c11da
 tvbs新闻台,p3p://173.208.176.178:19806/621858e3000e70ad1217c0700d576ad0
 寰宇新闻台,p3p://173.208.176.178:19806/653cd4a900049a4206d258a92e941b10
