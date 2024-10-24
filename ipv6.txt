@@ -128,13 +128,6 @@ Channel [V],http://php.jdshipin.com/TVOD/iptv.php?id=v
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-东森新闻台,p3p://108.181.32.169:34778/64251f9700046520ea5ce8b85b6c11da
-tvbs新闻台,p3p://173.208.176.178:19806/621858e3000e70ad1217c0700d576ad0
-寰宇新闻台,p3p://173.208.176.178:19806/653cd4a900049a4206d258a92e941b10
-三立新闻台,p3p://173.208.176.178:19806/6014c896000c7101401f67cc5477681b
-民视新闻台,p3p://173.208.176.178:19806/602f1f4a000aa86fa700c49817387f81
-中视新闻台,p3p://173.208.176.178:19806/61ff2b9d0004cfe6bb9a99f71e1c4c92
-台视新闻台,p3p://173.208.176.178:19806/62caf1dc000525b3cbb4de6e3c0e2af8
 bestv,#genre#
 华语影院,http://php.jdshipin.com/bestv.php?id=hyyy8m/8000000
 星光影院,http://php.jdshipin.com/bestv.php?id=xgyy8m/8000000
