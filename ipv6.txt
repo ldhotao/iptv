@@ -119,7 +119,7 @@ TVBS2,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 plus即时,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 无线,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw#http://live.cooltv.top/tv/tvb.php?id=0
 翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4#http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-明珠,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8#https://pi.0472.org/tv/mzt.php?auth=230918
+明珠,https://pi.0472.org/tv/mzt.php?auth=230918
 viutv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
