@@ -25,9 +25,7 @@ CCTV16 4K,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/i
 欢笑剧场4K,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000007000010001/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010001
 足球联赛12,http://[2409:8087:5e08:24::11]:6610/000000001000/3000000010000015686/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000015686
 卫视频道,#genre#
-广东珠江,http://2019.haovm.gq/wap/demo.php?id=gdzj#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/0.m3u8
-广东体育,http://2019.haovm.gq/wap/demo.php?id=gdty
-广东民生,http://2019.haovm.gq/wap/demo.php?id=gdms
+
 湖南卫视,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000032695/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=3
 浙江卫视,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000014260/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=3
 江苏卫视,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000001828/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=3
