@@ -174,11 +174,11 @@ http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?
 #EXTINF:-1 ,求索科学
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 ,CHC影迷电影
-http://php.jdshipin.com/TVOD/sdyd.php?id=2029
+https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv#http://php.jdshipin.com/TVOD/sdyd.php?id=2029
 #EXTINF:-1 ,CHC动作电影
-http://php.jdshipin.com/TVOD/sdyd.php?id=2030
+https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv#http://php.jdshipin.com/TVOD/sdyd.php?id=2030
 #EXTINF:-1 ,CHC家庭影院
-http://php.jdshipin.com/TVOD/sdyd.php?id=2028
+https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv#http://php.jdshipin.com/TVOD/sdyd.php?id=2028
 #EXTINF:-1 ,优漫卡通
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010118/0.m3u8
 #EXTINF:-1 ,卡酷少儿
