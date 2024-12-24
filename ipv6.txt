@@ -61,9 +61,6 @@ CGTN,http://[2409:8087:5e08:24::11]:6610/000000001000/7745129417417101820/index.
 广东珠江,http://2019.haovm.gq/wap/demo.php?id=gdzj#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/0.m3u8
 广东体育,http://2019.haovm.gq/wap/demo.php?id=gdty
 广东民生,http://2019.haovm.gq/wap/demo.php?id=gdms
-资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
-中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
-FK,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 其他频道,#genre#
 求索纪录,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
 求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
