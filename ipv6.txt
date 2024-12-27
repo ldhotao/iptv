@@ -144,9 +144,21 @@ CCTV16 4K,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000008000023254/i
 延边卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000073/index.m3u8?channel-id=newtv&Ace
 
 西藏卫视藏语,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000093/index.m3u8?channel-id=newtv&Ace
-广东珠江,http://2019.haovm.gq/wap/demo.php?id=gdzj#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/0.m3u8
-广东体育,http://2019.haovm.gq/wap/demo.php?id=gdty
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8#http://2019.haovm.gq/wap/demo.php?id=gdzj#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/0.m3u8
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8#http://2019.haovm.gq/wap/demo.php?id=gdty
 广东民生,http://2019.haovm.gq/wap/demo.php?id=gdms
+荔枝,#genre#
+广东新闻,https://vod.gdtv.cn/m3u8/202401/170565678746.m3u8
+广东珠江,https://vod.gdtv.cn/m3u8/202401/170567350934.m3u8
+广东体育,https://vod.gdtv.cn/m3u8/202401/170558960149.m3u8
+广东影视,https://vod.gdtv.cn/m3u8/202401/170530952414.m3u8
+嘉佳卡通,https://vod.gdtv.cn/m3u8/202401/170559047135.m3u8
+广东少儿,https://vod.gdtv.cn/m3u8/202401/170515928771.m3u8
+大湾区卫视，https://vod.gdtv.cn/m3u8/202401/170567312581.m3u8
+4K超清,https://vod.gdtv.cn/m3u8/202401/170567928663.m3u8
+岭南戏曲,https://vod.gdtv.cn/m3u8/202401/170567939446.m3u8
+GRTN文化频道,https://vod.gdtv.cn/m3u8/202401/170546576547.m3u8
+GRTN生活频道,https://vod.gdtv.cn/m3u8/202312/170234989496.m3u8
 其他频道,#genre#
 纪录,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
 生活,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
