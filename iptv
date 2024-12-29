@@ -58,9 +58,7 @@ CCTV16 4K,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000008000023254/i
 CETV-1SD,http://[2409:8087:5e08:24::16]:6610/000000001000/5000000002000002652/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000002652
 CETV-4SD,http://[2409:8087:5e08:24::16]:6610/000000001000/5000000011000031126/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031126
 CGTN,http://[2409:8087:5e08:24::16]:6610/000000001000/7745129417417101820/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=7745129417417101820
-广东珠江,http://2019.haovm.gq/wap/demo.php?id=gdzj#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/0.m3u8
-广东体育,http://2019.haovm.gq/wap/demo.php?id=gdty
-广东民生,http://2019.haovm.gq/wap/demo.php?id=gdms
+广东珠江,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010091/0.m3u8
 荔枝,#genre#
 广东新闻,https://vod.gdtv.cn/m3u8/202401/170565678746.m3u8
 广东珠江,https://vod.gdtv.cn/m3u8/202401/170567350934.m3u8
@@ -95,7 +93,7 @@ CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv#http://p
 山东教育,http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 纪实科教,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000001910
 纪实人文,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000265021/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265021&livemode=1&stbId=3
-劲爆体育,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
+劲爆体育,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 上海新闻综合,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 上海都市,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
 上海外语,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
@@ -110,7 +108,6 @@ CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv#http://p
 生活时尚,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 乐游频道,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 金色学堂,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989#http://php.jdshipin.com:8880/bestv.php?id=jingsepd8m/8000000
-梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 中国天气,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000057/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000057
 海南公共,http://[2409:8087:5e00:24::10]:6060/000000001000/460000100000000057/0.m3u8
 海南少儿,http://[2409:8087:5e00:24::10]:6060/000000001000/4600001000000000112/0.m3u8
@@ -120,8 +117,8 @@ CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv#http://p
 新海南,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010090/0.m3u8
 海南三沙卫视,http://[2409:8087:5e00:24::10]:6060/000000001000/4600001000000000117/0.m3u8
 测试,#genre#
-环宇,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8#http://cf.ambitiousjun.top:8880/handler/youtube/ch/6IquAgfvYmc?proxy_m3u=1&proxy_ts=1&format=FHD
-中天,http://litv.zapi.us.kg/?id=4gtv-4gtv009#http://cf.ambitiousjun.top:8880/handler/youtube/ch/vr3XyVCR4T0?proxy_m3u=1&proxy_ts=1&format=FHD
+环宇,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+中天,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 东森,http://litv.zapi.us.kg/?id=4gtv-4gtv152#http://cf.ambitiousjun.top:8880/handler/youtube/ch/V1p33hqPrUk?proxy_m3u=1&proxy_ts=1&format=FHD
 台视,rtmp://f13h.mine.nu/sat/tv071
 华视,rtmp://f13h.mine.nu/sat/tv111
@@ -135,13 +132,14 @@ CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv#http://p
 DAZN1,rtmp://f13h.mine.nu/sat/tv731
 DAZN2,rtmp://f13h.mine.nu/sat/tv741
 MoMoTV,rtmp://f13h.mine.nu/sat/tv761
-TVBS1,http://litv.zapi.us.kg/?id=4gtv-4gtv072
-TVBS2,http://litv.zapi.us.kg/?id=4gtv-4gtv068
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 plus即时,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 无线,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw#http://live.cooltv.top/tv/tvb.php?id=0
-翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4#http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-明珠,https://pi.0472.org/tv/mzt.php?auth=230918
-viutv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+翡翠,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+明珠,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
@@ -153,11 +151,12 @@ Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 新视觉,http://php.jdshipin.com:8880/bestv.php?id=xsjhd/4000000#http://117.161.12.124/live/program/live/xsjhd8m/8000000/mnf.m3u8
 1905环球经典,http://php.jdshipin.com:8880/1905.php?id=1905dy2#http://xxw.me0.cn/1905dy.php?id=1905a
 1905极限反转,http://php.jdshipin.com:8880/1905.php?id=1905dy#http://xxw.me0.cn/1905dy.php?id=1905b
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 星空卫视,http://php.jdshipin.com/TVOD/iptv.php?id=xkws
 Channel [V],http://php.jdshipin.com/TVOD/iptv.php?id=v
 美亚C+HD,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+美亚电影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
