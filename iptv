@@ -59,18 +59,6 @@ CETV-1SD,http://[2409:8087:5e08:24::16]:6610/000000001000/5000000002000002652/in
 CETV-4SD,http://[2409:8087:5e08:24::16]:6610/000000001000/5000000011000031126/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031126
 CGTN,http://[2409:8087:5e08:24::16]:6610/000000001000/7745129417417101820/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=7745129417417101820
 广东珠江,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010091/0.m3u8
-荔枝,#genre#
-广东新闻,https://vod.gdtv.cn/m3u8/202401/170565678746.m3u8
-广东珠江,https://vod.gdtv.cn/m3u8/202401/170567350934.m3u8
-广东体育,https://vod.gdtv.cn/m3u8/202401/170558960149.m3u8
-广东影视,https://vod.gdtv.cn/m3u8/202401/170530952414.m3u8
-嘉佳卡通,https://vod.gdtv.cn/m3u8/202401/170559047135.m3u8
-广东少儿,https://vod.gdtv.cn/m3u8/202401/170515928771.m3u8
-大湾区卫视，https://vod.gdtv.cn/m3u8/202401/170567312581.m3u8
-4K超清,https://vod.gdtv.cn/m3u8/202401/170567928663.m3u8
-岭南戏曲,https://vod.gdtv.cn/m3u8/202401/170567939446.m3u8
-GRTN文化频道,https://vod.gdtv.cn/m3u8/202401/170546576547.m3u8
-GRTN生活频道,https://vod.gdtv.cn/m3u8/202312/170234989496.m3u8
 其他,#genre#
 凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://prettyalan.vicp.cc:8888/udp/239.61.5.47:1025#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰卫视,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv#http://prettyalan.vicp.cc:8888/udp/239.61.5.48:1025#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://www.erbao1981.top:8188/udp/239.76.246.135:1234
@@ -136,12 +124,12 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 plus即时,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 无线,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw#http://live.cooltv.top/tv/tvb.php?id=0
-翡翠,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fct
 明珠,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2#http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 香港卫视台,http://anren.live/HK/BSJDUFpB.m3u8
 HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
@@ -151,7 +139,7 @@ Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 新视觉,http://php.jdshipin.com:8880/bestv.php?id=xsjhd/4000000#http://117.161.12.124/live/program/live/xsjhd8m/8000000/mnf.m3u8
 1905环球经典,http://php.jdshipin.com:8880/1905.php?id=1905dy2#http://xxw.me0.cn/1905dy.php?id=1905a
 1905极限反转,http://php.jdshipin.com:8880/1905.php?id=1905dy#http://xxw.me0.cn/1905dy.php?id=1905b
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 星空卫视,http://php.jdshipin.com/TVOD/iptv.php?id=xkws
 Channel [V],http://php.jdshipin.com/TVOD/iptv.php?id=v
@@ -163,6 +151,13 @@ Channel [V],http://php.jdshipin.com/TVOD/iptv.php?id=v
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 地方台,#genre#
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广州综合频道,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8#http://php.jdshipin.com/gztv.php?id=zonghes
+广州新闻频道,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3#http://php.jdshipin.com/gztv.php?id=xinwen
+广州法治频道,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493#http://php.jdshipin.com/gztv.php?id=fazhi
+广州影视频道,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4#http://php.jdshipin.com/gztv.php?id=yingshi
+广州南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4#http://php.jdshipin.com/gztv.php?id=nanguodushi
 
 IHOT频道,#genre#
 爱喜剧,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
