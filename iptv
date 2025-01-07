@@ -87,10 +87,10 @@ CHC家庭影院,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/888
 金鹰纪实,http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
 嘉佳卡通,http://[2409:8087:5e08:24::16]:6610/000000001000/1000000002000025964/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=ystenlive&Contentid=1000000002000025964&IASHttpSessionId=OTT19019320240419154124000281
 金鹰卡通,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040024#http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
-动漫秀场,http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
-哈哈炫动,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031123#http://[2409:8087:5e08:24::16]:6610/000000001000/5000000011000031123/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=bestzb&Contentid=5000000011000031123&IASHttpSessionId=OTT19019320240419154124000281
+动漫秀场,http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=007
+哈哈炫动,http://[2409:8087:5e08:24::16]:6610/000000001000/5000000011000031123/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=bestzb&Contentid=5000000011000031123&IASHttpSessionId=OTT19019320240419154124000281
 山东教育,http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
-纪实科教,http://[2409:8087:5e00:24::10]:6060/000000001000/5000000011000031204/index.m3u8?channel-id=bestzb&Contentid=5000000011000031204&livemode=1&stbId=3
+纪实科教,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000065/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000065&IASHttpSessionId=OTT19019320240419154124000281
 纪实人文,http://[2409:8087:5e00:24::10]:6060/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
 劲爆体育,http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 上海新闻综合,http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
@@ -108,7 +108,7 @@ CHC家庭影院,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/888
 乐游频道,http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
 金色学堂,http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
 魅力足球,http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-中国天气,http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
+中国天气,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000057/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000057
 茶,http://[2409:8087:5e08:24::16]:6610/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
 海南公共,http://[2409:8087:5e00:24::10]:6060/000000001000/460000100000000057/0.m3u8
 海南少儿,http://[2409:8087:5e00:24::10]:6060/000000001000/4600001000000000112/0.m3u8
