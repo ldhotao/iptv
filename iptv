@@ -232,17 +232,17 @@ NewTV频道,#genre#
 百视通8,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000049&IASHttpSessionId=OTT19019320240419154124000281
 百视通9,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000050/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000050&IASHttpSessionId=OTT19019320240419154124000281
 百视通10,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000051/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000051&IASHttpSessionId=OTT19019320240419154124000281
-PPTV1,http://[2409:8087:5e08:24::2]:6610/000000001000/3000000001000028638/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000028638
-PPTV10,http://[2409:8087:5e08:24::2]:6610/000000001000/3000000001000005969/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000005969
-PPTV11,http://[2409:8087:5e08:24::2]:6610/000000001000/3000000001000026778/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000026778
-PPTV2,http://[2409:8087:5e08:24::2]:6610/000000001000/3000000001000008379/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000008379
-PPTV3,http://[2409:8087:5e08:24::2]:6610/000000001000/3000000001000008001/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000008001
-PPTV4,http://[2409:8087:5e08:24::2]:6610/000000001000/3000000001000031494/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000031494
-PPTV5,http://[2409:8087:5e08:24::2]:6610/000000001000/3000000001000008176/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000008176
-PPTV6,http://[2409:8087:5e08:24::2]:6610/000000001000/3000000001000010129/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000010129
-PPTV7,http://[2409:8087:5e08:24::2]:6610/000000001000/3000000001000010948/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000010948
-PPTV8,http://[2409:8087:5e08:24::2]:6610/000000001000/3000000001000007218/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000007218
-PPTV9,http://[2409:8087:5e08:24::2]:6610/000000001000/3000000001000005308/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000005308
+PPTV1,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000028638
+PPTV2,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000008379
+PPTV3,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000008001
+PPTV4,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000031494
+PPTV5,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000008176
+PPTV6,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000010129
+PPTV7,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000010948
+PPTV8,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000007218
+PPTV9,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000005308
+PPTV10,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000005969
+PPTV11,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000026778
 咪咕视频ipv6,#genre#
 咪咕直播4K Ⅰ,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000005180
 咪咕直播4K Ⅱ,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000015686
