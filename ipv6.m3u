@@ -48,11 +48,11 @@ http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 ,4KUHD
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000011651
 #EXTINF:-1 ,华数4K
-http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000003000004748
+http://php.jdshipin.com:80/itv6.php?cid=wasusyt&id=6000000003000004748
 #EXTINF:-1 ,足球联赛16
 http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000005180
 #EXTINF:-1 ,欢笑剧场4K
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=YanG-1989
+http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000007000010001
 #EXTINF:-1 ,足球联赛12
 http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000015686
 #EXTINF:-1 ,====== 卫视频道,#genre# ======
