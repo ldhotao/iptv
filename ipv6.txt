@@ -331,3 +331,9 @@ CCTV17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 晴彩广场舞,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226482
 晴彩青少,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226508
 咪咕视频,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226398
+测试,#genre#
+凤凰中文,http://v4h.xiepeiru.top:1123/iptv/gt/FengHuangZhongWen
+凤凰资讯,http://v4h.xiepeiru.top:1123/iptv/gt/FengHuangZiXun
+凤凰香港,http://v4h.xiepeiru.top:1123/iptv/gt/FengHuangXiangGang
+翡翠台,http://v4h.xiepeiru.top:1123/iptv/gt/FeiCuiTai
+无线新闻台,http://v4h.xiepeiru.top:1123/iptv/gt/WuXianXInWenTai
