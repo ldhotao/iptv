@@ -299,6 +299,13 @@ CCTV17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226327
 大湾区卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226442
 
+黑龙江新闻法治,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226330
+黑龙江文体频道,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226239
+黑龙江影视频道,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226298
+黑龙江都市频道,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226301
+黑龙江农业科教,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226492
+黑龙江少儿频道,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226304
+
 金鹰卡通,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225653
 哈哈炫动,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225657
 卡酷少儿,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225654
@@ -329,6 +336,7 @@ CCTV17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 动作电影,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225661
 金牌综艺,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225666
 农业致富,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225683
+武搏世界,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225680
 哒啵赛事,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225675
 晴彩竞技,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226124
 晴彩篮球,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226147
