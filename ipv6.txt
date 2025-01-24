@@ -379,9 +379,9 @@ CCTV17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 晴彩青少,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226508
 咪咕视频,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226398
 江苏移动,#genre#
-凤凰资讯,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB/JSYD.php?p=gitv&id=HD-10000k-1080P-fhzixun5s&ace
-凤凰中文,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB/JSYD.php?p=gitv&id=HD-10000k-1080P-fhchinese5s&ace
-凤凰香港,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB/JSYD.php?p=gitv&id=HD-10000k-1080P-fhhongkong5s&ace
+资讯,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB/JSYD.php?p=gitv&id=HD-10000k-1080P-fhzixun5s&ace
+中文,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB/JSYD.php?p=gitv&id=HD-10000k-1080P-fhchinese5s&ace
+HK,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB/JSYD.php?p=gitv&id=HD-10000k-1080P-fhhongkong5s&ace
 CCTV1,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB/JSYD.php?p=gitv&id=G_CCTV-1-HD-265-5M&ace
 CCTV1,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB/JSYD.php?p=gitv&id=G_CCTV-1-AVS-4K264&ace
 CCTV2,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB/JSYD.php?p=gitv&id=G_CCTV-2-HD-265-8M&ace
