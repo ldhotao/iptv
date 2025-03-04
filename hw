@@ -39,16 +39,16 @@ TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 oneTV,http://play2.one-tv.com/live/onetv.m3u8
 测试2,#genre#
-凤凰中文,http://v4h.xiepeiru.top:1123/iptv/gt/FengHuangZhongWen
-凤凰资讯,http://v4h.xiepeiru.top:1123/iptv/gt/FengHuangZiXun
-凤凰香港,http://v4h.xiepeiru.top:1123/iptv/gt/FengHuangXiangGang
-翡翠台,http://v4h.xiepeiru.top:1123/iptv/gt/FeiCuiTai
-无线新闻台,http://v4h.xiepeiru.top:1123/iptv/gt/WuXianXInWenTai
-
 翡翠台4K,http://cdn.163189.xyz/live/fct4k/stream.m3u8
 TVB PLUS,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰香港,http://cdn6.163189.xyz/live/fhhk/stream.m3u8
+八度空间,http://cdn6.163189.xyz/live/fhhk/stream.m3u8
+明珠台,https://cdn5.163189.xyz/live/mzt/stream.m3u8
+CH5,http://cdn6.163189.xyz/live/ch5/stream.m3u8
+CH8,http://cdn6.163189.xyz/live/ch8/stream.m3u8
+CHU,http://cdn6.163189.xyz/live/chu/stream.m3u8
 TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
 HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 澳视澳门,http://cdn.163189.xyz/live/asam/stream.m3u8
@@ -57,8 +57,8 @@ HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
 地方台,#genre#
-广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8#http://222.128.55.152:9080/live/gdzj.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8#http://222.128.55.152:9080/live/gdty.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 广东民生,http://222.128.55.152:9080/live/gdms.m3u8
 广东影视,http://222.128.55.152:9080/live/gdys.m3u8
