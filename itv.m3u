@@ -1555,23 +1555,23 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=100000
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000269005&livemode=1&stbId=yu&mode=1&$4M FHD
 #EXTINF:-1 tvg-name="中视购物" tvg-logo="https://epg.v1.mk/logo/中视购物.png" group-title="综合频道",中视购物
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000003000000056&livemode=1&stbId=yu&mode=1&$4M FHD
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="港澳频道",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="港澳频道",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="港澳频道",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港澳频道",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳频道",TVB翡翠台
+#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港澳频道",TVB翡翠台
 http://cdn2.163189.xyz/live/fct/stream.m3u8 
-#EXTINF:-1 tvg-name="TVB翡翠1" tvg-logo="https://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳频道",TVB翡翠台1
+#EXTINF:-1 tvg-name="TVB翡翠1" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港澳频道",TVB翡翠台1
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1 tvg-name="TVB翡翠2" tvg-logo="https://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳频道",TVB翡翠台2
+#EXTINF:-1 tvg-name="TVB翡翠2" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港澳频道",TVB翡翠台2
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 tvg-name="TVB翡翠3" tvg-logo="https://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳频道",TVB翡翠台3
+#EXTINF:-1 tvg-name="TVB翡翠3" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港澳频道",TVB翡翠台3
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-name="TVB翡翠4" tvg-logo="https://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳频道",TVB翡翠台4
+#EXTINF:-1 tvg-name="TVB翡翠4" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港澳频道",TVB翡翠台4
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="港澳频道",无线新闻台
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="港澳频道",无线新闻台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="港澳频道",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
@@ -1579,7 +1579,7 @@ http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://epg.v1.mk/logo/J2.png" group-title="港澳频道",J2
 J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="港澳频道",TVB星河
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/星河台.png" group-title="港澳频道",TVB星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 tvg-name="TVBplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港澳频道",TVBplus
 http://cdn.163189.xyz/live/tvbp/stream.m3u8
@@ -1589,9 +1589,9 @@ http://cdn.163189.xyz/live/as/stream.m3u8
 http://cdn.163189.xyz/live/asam/stream.m3u8
 #EXTINF:-1 tvg-name="hoytv" tvg-logo="https://epg.v1.mk/logo/hoytv.png" group-title="港澳频道",HOY TV
 http://cdn.163189.xyz/live/hoy/stream.m3u8
-#EXTINF:-1 tvg-name="TVB J1" tvg-logo="https://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳频道",TVB J1
+#EXTINF:-1 tvg-name="TVB J1" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港澳频道",TVB J1
 http://cdn3.163189.xyz/live/j1/stream.m3u8
-#EXTINF:-1 tvg-name="TVBplus" tvg-logo="https://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳频道",TVBplus
+#EXTINF:-1 tvg-name="TVBplus" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港澳频道",TVBplus
 http://cdn.163189.xyz/live/tvbp/stream.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="港澳频道",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
