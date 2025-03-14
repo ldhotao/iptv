@@ -1601,7 +1601,16 @@ http://zb.xzxwhcb.com:9999/hls/world.m3u8
 http://anren.live/HK/BSJDUFpB.m3u8
 #EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="港澳频道",千禧经典台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-
+#EXTINF:-1 tvg-id="广州综合台" tvg-name="广州综合台" tvg-logo="https://epg.iill.top/logo/广州综合.png" group-title="港澳频道",广州综合
+http://dns.yiandrive.com:15907/gztv/zhonghe
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.iill.top/logo/广州新闻.png" group-title="港澳频道",广州新闻
+http://dns.yiandrive.com:15907/gztv/xinwen
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://epg.iill.top/logo/广州法治.png" group-title="港澳频道",广州法治
+http://dns.yiandrive.com:15907/gztv/fazhi
+#EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.iill.top/logo/广州影视.png" group-title="港澳频道",广州影视
+http://dns.yiandrive.com:15907/gztv/yingshi
+#EXTINF:-1 tvg-id="广州南国" tvg-name="广州南国" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="港澳频道",广州南国都市
+http://dns.yiandrive.com:15907/gztv/shenghuo
 
 
 
