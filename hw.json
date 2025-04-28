@@ -1,0 +1,52 @@
+{
+  "lives": [
+    {
+      "name": "zwssina",
+      "type": 3,
+      "api": "https://gitee.com/zwssina/yunduanyuan/raw/master/SB",
+      "ext": {}
+    {
+      "name": "ipv6",
+      "type": 3,
+      "api": "https://gitee.com/hw2837/iptv/raw/master/ipv6.txt",
+      "ext": {}
+    },
+    {
+      "name": "catvod",
+      "type": 3,
+      "api": "https://tvbox.catvod.com/jsm.json
+",
+      "ext": {}
+    },
+    {
+      "name": "fish2018",
+      "type": 3,
+      "api": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
+      "ext": {}
+    },
+    {
+      "name": "fish2018",
+      "type": 3,
+      "api": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
+      "ext": {}
+    },
+    {
+      "name": "快直播电视(python)",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/kzb.py",
+      "ext": {}
+    },
+    {
+      "name": "快直播体育(python)",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/kzbty.py",
+      "ext": {}
+    },
+    {
+      "name": "yoo体育(python)",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/yoozb.py",
+      "ext": {}
+    }
+  ]
+}
