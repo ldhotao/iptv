@@ -9,18 +9,18 @@
     {
       "name": "ipv6",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/iptv-hls/master/app.py",
+      "url": "https://gitee.com/hw2837/iptv/raw/master/ipv6.txt",
       "ext": {}
     },
     {
       "name": "catvod",
-      "type": 0,
+      "type": 1,
       "url": "https://tvbox.catvod.com/jsm.json",
       "ext": {}
     },
     {
       "name": "fish2018",
-      "type": 0,
+      "type": 2,
       "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
       "ext": {}
     },
