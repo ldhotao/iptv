@@ -5,6 +5,7 @@
       "type": 3,
       "api": "https://gitee.com/zwssina/yunduanyuan/raw/master/SB",
       "ext": {}
+    },
     {
       "name": "ipv6",
       "type": 3,
@@ -14,8 +15,7 @@
     {
       "name": "catvod",
       "type": 3,
-      "api": "https://tvbox.catvod.com/jsm.json
-",
+      "api": "https://tvbox.catvod.com/jsm.json",
       "ext": {}
     },
     {
