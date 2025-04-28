@@ -27,7 +27,7 @@
     {
       "name": "Guovin",
       "type": 0,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
       "ext": {}
     },
     {
