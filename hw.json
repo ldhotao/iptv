@@ -2,32 +2,32 @@
   "lives": [
     {
       "name": "zwssina",
-      "type": 3,
-      "api": "https://gitee.com/zwssina/yunduanyuan/raw/master/SB",
+      "type": 0,
+      "url": "https://gitee.com/zwssina/yunduanyuan/raw/master/SB",
       "ext": {}
     },
     {
       "name": "ipv6",
-      "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/iptv-hls/master/app.py",
+      "type": 0,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/iptv-hls/master/app.py",
       "ext": {}
     },
     {
       "name": "catvod",
-      "type": 3,
-      "api": "https://tvbox.catvod.com/jsm.json",
+      "type": 0,
+      "url": "https://tvbox.catvod.com/jsm.json",
       "ext": {}
     },
     {
       "name": "fish2018",
-      "type": 3,
-      "api": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
+      "type": 0,
+      "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
       "ext": {}
     },
     {
       "name": "fish2018",
-      "type": 3,
-      "api": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
+      "type": 0,
+      "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
       "ext": {}
     },
     {
