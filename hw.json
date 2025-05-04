@@ -13,6 +13,12 @@
       "ext": {}
     },
     {
+      "name": "ipv6.txt",
+      "type": 0,
+      "url": "https://gitee.com/hw2837/iptv/raw/master/ipv6.txt",
+      "ext": {}
+    },
+    {
       "name": "iptv",
       "type": 0,
       "url": "https://gitee.com/hw2837/iptv/raw/master/iptv",
