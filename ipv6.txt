@@ -365,6 +365,12 @@ TVB星河,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/TVOD/
 澳视卫星,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=as
 RTHK31,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK32,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 新咪咕,#genre#
 咪咕视频1_8M1080,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226909/1.m3u8
 西甲2_8M1080,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226912/1.m3u8
