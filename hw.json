@@ -25,6 +25,18 @@
       "ext": {}
     },
     {
+      "name": "Gather.电视直播",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Gather",
+      "ext": {}
+    },
+    {
+      "name": "Gather.网缘直播",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Live",
+      "ext": {}
+    },
+    {
       "name": "iptv",
       "type": 0,
       "url": "https://gitee.com/hw2837/iptv/raw/master/iptv",
