@@ -37,9 +37,9 @@
       "ext": {}
     },
     {
-      "name": "AKTV",
+      "name": "kilvn",
       "type": 0,
-      "url": "https://aktv.space/live.m3u",
+      "url": "https://live.kilvn.com/iptv.m3u",
       "ext": {}
     },
     {
@@ -51,7 +51,7 @@
     {
       "name": "快直播电视(python)",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/kzb.py",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/iptv345.py",
       "ext": {}
     },
     {
