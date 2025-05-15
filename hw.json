@@ -66,6 +66,18 @@
       "api": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/iptv345.py",
       "ext": {}
     },
+     {
+      "name": "515001",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/515001.py",
+      "ext": {}
+    },
+    {
+      "name": "515003",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.dgithub.xyz/cqshushu/tvjk/master/515003.py",
+      "ext": {}
+    },
     {
       "name": "360pai",
       "type": 3,
