@@ -80,7 +80,7 @@
     },
     {
       "name": "gggg.nzk",
-      "type": 0,
+      "type": 3,
       "api": "http://rihou.cc:555/gggg.nzk/",
       "ext": {}
     },
