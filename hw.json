@@ -7,6 +7,12 @@
       "ext": {}
     },
     {
+      "name": "zyj",
+      "type": 0,
+      "url": "http://150.158.10.195:10880/zyj/zz/raw/main/ltv.txt",
+      "ext": {}
+    },
+    {
       "name": "nctv",
       "type": 0,
       "url": "http://live.nctv.top/x.txt",
