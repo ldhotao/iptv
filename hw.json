@@ -85,10 +85,13 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "345电视(php)",
-      "url": "http://php.cqshushu.ggff.net/345.php?公众号【医工学习日志】",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "name": "MQitv",
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "jar": "https://raw.dgithub.xyz/cxr9912/cxr2025/refs/heads/main/mtv.jar",
+      "ext": "https://59.125.210.231:4433",
+      "timeout": 30,
+      "playerType": 1
     },
     {
       "name": "LITV直播(python)",
