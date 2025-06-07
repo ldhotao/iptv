@@ -100,12 +100,6 @@
       }
     },
     {
-     "name": "快直播(python)",
-     "type": 3,
-     "api": "https://json.doube.eu.org/python/live_kzb.py",
-     "ext": {},
-    },
-    {
     "name": "快直播KZb",
     "url": "http://xg.52sw.top/play/kzb",
     "ua": "okhttp/3.15"
