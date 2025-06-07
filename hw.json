@@ -97,9 +97,20 @@
       "ext": {}
     },
     {
-      "name": "快直播电视(python)",
+      "name": "LiTV直播代理",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/cxr9912/cxr2025/master/快直播.py",
+      "api": "https://gh-proxy.com/https://raw.dgithub.xyz/doube-ba/Sub/refs/heads/main/live/live_litv.py",
+      "ext": {
+        "proxy": {
+          "http": "http://127.0.0.1:7897",
+          "https": "http://127.0.0.1:7897"
+        }
+      }
+    },
+    {
+      "name": "快直播kzb",
+      "type": 0,
+      "api": "http://xg.52sw.top/play/kzb",
       "ext": {}
     },
     {
@@ -127,9 +138,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "快直播体育(python)",
+      "name": "斯玛特全球直播",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/kzbty.py",
+      "api": "https://raw.dgithub.xyz/doube-ba/Sub/refs/heads/main/live/live_smt.py",
       "ext": {}
     },
     {
