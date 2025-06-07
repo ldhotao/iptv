@@ -106,10 +106,9 @@
       }
     },
     {
-      "name": "快直播kzb",
-      "type": 0,
-      "api": "http://xg.52sw.top/play/kzb",
-      "ext": {}
+    "name": "快直播KZb",
+    "url": "http://xg.52sw.top/play/kzb",
+    "ua": "okhttp/3.15"
     },
     {
       "name": "515001",
