@@ -91,6 +91,14 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "BeeSport直播(python)",
+      "type": 3,
+      "api": "./live_beesport.py",
+      "ext": {},
+      "header": {
+        "Referer": "https://p.m82xg4z0cdbz7.com/"
+      }
+    {
       "name": "LITV直播(python)",
       "type": 3,
       "api": "https://raw.dgithub.xyz/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
@@ -99,9 +107,17 @@
     {
       "name": "快直播电视(python)",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/kzb.py",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/cxr9912/cxr2025/master/快直播.py",
       "ext": {}
     },
+     {
+            "name": "欧华173",
+            "type": 0,
+            "url": "https://raw.dgithub.xyz/cxr9912/cxr2025/refs/heads/main/173.txt",
+              "so": "https://raw.dgithub.xyz/cxr9912/cxr2025/refs/heads/main/libp3p.so",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+   },
      {
       "name": "515001",
       "type": 3,
