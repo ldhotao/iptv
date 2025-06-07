@@ -13,6 +13,12 @@
       "ext": {}
     },
     {
+      "name": "p2p",
+      "type": 0,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/142.txt",
+      "ext": {}
+    },
+    {
       "name": "nctv",
       "type": 0,
       "url": "http://live.nctv.top/x.txt",
