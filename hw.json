@@ -85,15 +85,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "MQitv",
-      "api": "csp_MQiTV",
-      "ua": "okhttp",
-      "jar": "https://raw.dgithub.xyz/cxr9912/cxr2025/refs/heads/main/mtv.jar",
-      "ext": "https://59.125.210.231:4433",
-      "timeout": 30,
-      "playerType": 1
-    },
-    {
       "name": "LITV直播(python)",
       "type": 3,
       "api": "https://raw.dgithub.xyz/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
