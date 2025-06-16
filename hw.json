@@ -141,5 +141,26 @@
       "api": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/yoozb.py",
       "ext": {}
     }
-  ]
+   ],
+    "headers": [
+        {
+            "host": "gslbserv.itv.cmvideo.cn",
+            "header": {
+                "User-Agent": "okhttp/3.15"
+            }
+        }
+    ],
+    "proxy": [
+        "raw.dgithub.xyz"
+    ],
+    "hosts": [
+        "cache.ott.ystenlive.itv.cmvideo.cn=39.135.132.221",
+        "cache.ott.bestlive.itv.cmvideo.cn=39.135.132.221",
+        "cache.ott.wasulive.itv.cmvideo.cn=39.135.132.221",
+        "cache.ott.fifalive.itv.cmvideo.cn=39.135.132.221",
+        "cache.ott.hnbblive.itv.cmvideo.cn=39.135.132.221"
+    ],
+    "ads": [
+        "static-mozai.4gtv.tv"
+    ]
 }
