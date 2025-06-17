@@ -85,9 +85,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "APPV2.py(python)",
-      "type": 3,
-      "api": "https://try.gogs.io/NB666/api/raw/main/py/APPV2.py",
+      "name": "8.138.7.223",
+      "type": 0,
+      "url": "http://8.138.7.223/51.txt",
       "ext": {}
     },
     {
