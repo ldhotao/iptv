@@ -85,10 +85,10 @@
       "ext": {}
     },
     {
-      "name": "极直播电视(php)",
-      "url": "http://php.cqshushu.ggff.net/jzb.php?公众号【医工学习日志】",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "name": "yoozb",
+      "type": 0,
+      "url": "http://121.36.30.187:81/yoozb.php?live=Suv",
+      "ext": {}
     },
     {
       "name": "8.138.7.223",
@@ -126,7 +126,7 @@
     {
       "name": "360pai",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/360pai.py",
+      "api": "https://gh-proxy.net/raw.githubusercontent.com/cqshushu/tvjk/master/360pai.py",
       "ext": {}
     },
     {
