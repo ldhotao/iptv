@@ -725,12 +725,16 @@ CCTV17,http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/888
 陕西新闻资讯,http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225500/index.m3u8
 陕西都市青春http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225830/index.m3u8
 
-Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
-Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
-东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
-中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
-中天新闻2,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
-寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8
+Now Sports 651,https://dko29we9nm1rd.cloudfront.net/hls/CH651/index.m3u8
+Now Sports 652,https://dko29we9nm1rd.cloudfront.net/hls/CH652/index.m3u8
+翡翠台,https://gdfire2.67890123.cn:8088/live/jade.m3u8
+Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw.m3u8
+Now爆谷,https://gdfire2.67890123.cn:8088/live/nowbg.m3u8
+Now星影,https://gdfire2.67890123.cn:8088/live/nowxy.m3u8
+东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw.m3u8
+中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw.m3u8
+中天新闻2,https://gdfire2.67890123.cn:8088/live/ztxw2.m3u8
+寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
 
 18台,http://bxtv.757888.xyz/stream/bxtv/18/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
 TVB Plus,http://bxtv.757888.xyz/stream/bxtv/tvbplus/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
