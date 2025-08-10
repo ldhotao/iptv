@@ -4,6 +4,7 @@
       "name": "catvod",
       "type": 0,
       "url": "https://live.catvod.com/tv.m3u",
+      "ua": "catvod.com",
       "ext": {}
     },
     {
