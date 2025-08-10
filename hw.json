@@ -107,6 +107,16 @@
       }
     },
     {
+  "name":"内置测测",
+  "boot": true,
+  "type":0,
+  "url":"https://itv-list.myukj.cn/list/itv.m3u",
+  "playerType":1,
+  "ua":"70bd564ac1ae0801",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+    {
     "name": "suxuang",
     "url": "https://ghproxy.net/https://raw.githubusercontent.com/suxuang/myIPTV/master/ipv4.m3u",
     "ua": "okhttp/3.15"
