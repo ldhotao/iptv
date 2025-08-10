@@ -1015,8 +1015,11 @@ Smart-综网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 亚洲旅游网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-162-0.html 
 cNN新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-78-0.html
 本地,#genre#
-深圳卫视4k,https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8#https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8#http://8.138.7.223/tv/gd.php?id=0201
-深圳都市,http://livepull-tcms.sztv.com.cn/live/dslive.m3u8
+广东卫视4K,http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
+深圳卫视4K,http://xxwx.yoesun.com/xxw/卫视4K.php?id=sz4k
+广州南国4K,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
+北京卫视4k,http://49.235.65.250:600/beijing/beijing.php?id=bjws4k
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
 广东民生,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
 广东珠江,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
