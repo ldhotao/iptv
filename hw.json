@@ -2,7 +2,7 @@
   "lives": [
     {
       "name": "catvod",
-      "type": 0,
+      "type": 3,
       "url": "https://live.catvod.com/tv.m3u",
       "ua": "catvod.com",
       "ext": {}
@@ -50,16 +50,20 @@
       "ext": {}
     },
     {
-      "name": "Gather.电视直播",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Gather",
-      "ext": {}
+      "name":"📺Gather电视央卫视咪咕视频",
+"type":0,
+"url":"https://tv.iill.top/m3u/Gather",
+"ua":"okhttp/3.15",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "Gather.网络直播",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Live",
-      "ext": {}
+      "name": "♾️Gather用香港节点mytv接口💔",
+   "type": "0",
+   "url":"https://tv.iill.top/m3u/MyTV",
+ "ua":"okhttp/5.0.0-alpha.14",
+"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "iptv",
@@ -86,10 +90,12 @@
       "ext": {}
     },
     {
-      "name": "yoozb",
-      "type": 0,
-      "url": "http://121.36.30.187:81/yoozb.php?live=Suv",
-      "ext": {}
+      "name": "🥎ggg.nzk",
+  "boot": true,
+  "type":0,
+    "url": "http://rihou.cc:555/ggg.nzk",
+  "playerType":2,
+    "ua": "judy/5.2.1"
     },
     {
       "name": "kdsb",
