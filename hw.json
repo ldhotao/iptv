@@ -50,12 +50,13 @@
       "ext": {}
     },
     {
-      "name":"📺Gather电视央卫视咪咕视频",
-"type": 0,
-      "url": "http://tv.iill.top/m3u/Gather",
-      "ua": "okhttp/3.8.1",
-      "timeout": 20,
-      "playerType": 1
+      "name": "🍄20250814(改IP)沐辰SMT直播(python)自己改IP",
+      "type": 3,
+      "api": "https://raw.dgithub.xyz/cxr9912/cxr2025/refs/heads/main/live_smt.py",
+      "ext": {},
+      "header": {
+        "CLIENT-IP": "127.0.0.1",
+        "X-FORWARDED-FOR": "127.0.0.1"
     },
     {
       "name": "♾️Gather用香港节点mytv接口💔",
