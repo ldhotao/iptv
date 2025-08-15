@@ -146,14 +146,12 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name":"直播体育",
-  "boot": true,
-  "type":0,
-  "url":"http://web9916.w.computerqwq.cf/kqt.php?公众号【医工学习日志】",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+      "name": "BeeSport直播(python)",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/14756/python/live_beesport.py",
+      "ext": {},
+      "header": {
+        "Referer": "https://p.m82xg4z0cdbz7.com"
     },
     {
       "name" : "🧑🏻‍🌾♾️🍄Judy  smart.m3u 20250813【挂T台湾美国】🧑🏻‍🌾",
