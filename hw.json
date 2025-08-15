@@ -55,12 +55,11 @@
    "url":"https://raw.dgithub.xyz/cxr9912/cxr2025/refs/heads/main/%E5%BD%B1%E8%A7%86%E4%B8%93%E7%94%A8.txt"
     },
     {
-      "name": "♾️Gather用香港节点mytv接口💔",
-  "type": 0,
-      "url": "http://tv.iill.top/m3u/MyTV",
-      "ua": "okhttp/3.8.1",
-      "timeout": 20,
-      "playerType": 1
+      "name": "💔Mursor大佬直播【肥羊央视卫视直播 20250811】",
+            "type": "0",
+            "pass": true,
+             "ua": "okHttp/Mod-1.0.0",
+            "url": "https://raw.dgithub.xyz/mursor1985/LIVE/refs/heads/main/iptv.m3u"
     },
     {
       "name": "iptv",
