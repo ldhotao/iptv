@@ -50,13 +50,9 @@
       "ext": {}
     },
     {
-      "name": "🍄20250814(改IP)沐辰SMT直播(python)自己改IP",
-      "type": 3,
-      "api": "https://raw.dgithub.xyz/cxr9912/cxr2025/refs/heads/main/live_smt.py",
-      "ext": {},
-      "header": {
-        "CLIENT-IP": "127.0.0.1",
-        "X-FORWARDED-FOR": "127.0.0.1"
+      "name": "♾️🍄WEB港湾(影视专用) 20250709🍄🍄🍄💔",
+   "type": "0",
+   "url":"https://raw.dgithub.xyz/cxr9912/cxr2025/refs/heads/main/%E5%BD%B1%E8%A7%86%E4%B8%93%E7%94%A8.txt"
     },
     {
       "name": "♾️Gather用香港节点mytv接口💔",
