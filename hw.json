@@ -55,11 +55,11 @@
    "url":"https://raw.dgithub.xyz/cxr9912/cxr2025/refs/heads/main/%E5%BD%B1%E8%A7%86%E4%B8%93%E7%94%A8.txt"
     },
     {
-      "name": "💔Mursor大佬直播【肥羊央视卫视直播 20250811】",
-            "type": "0",
-            "pass": true,
-             "ua": "okHttp/Mod-1.0.0",
-            "url": "https://raw.dgithub.xyz/mursor1985/LIVE/refs/heads/main/iptv.m3u"
+       "name" : " 💔🐟smt新IP免梯.txt 20250815🧑💔",
+    "type" : 0,
+    "url": "https://d.kstore.dev/download/12464/cxrtv/smt%E6%96%B0IP%E5%85%8D%E6%A2%AF.txt",
+     "ua": "Goiptv/8.8.8",
+    "ext": { }
     },
     {
       "name": "iptv",
@@ -74,10 +74,10 @@
       "ext": {}
     },
     {
-      "name": "aktv",
-      "type": 0,
-      "url": "https://aktv.space/live.m3u",
-      "ext": {}
+      "name" : " 🐟🐟广东电信20250815🧑🏻‍🌾",
+    "type" : 0,
+    "url": "https://d.kstore.dev/download/12464/cxrtv/广东电信.txt",
+    "ext": { }
     },
     {
       "name": "wwb521",
