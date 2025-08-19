@@ -152,11 +152,10 @@
     },
     {
       "name" : "🧑🏻‍🌾♾️🍄mursor1985🧑🏻‍🌾",
-      "type": 0,
-      "playerType": 2,
-      "ua": "okHttp/Mod-1.0.1",
-      "url": "https://raw.dgithub.xyz/mursor1985/LIVE/refs/heads/main/iptv.m3u",
-      "timeout":10,
+      "type": "0",
+            "pass": true,
+             "ua": "okHttp/Mod-1.0.0",
+            "url": "https://raw.dgithub.xyz/mursor1985/LIVE/refs/heads/main/iptv.m3u"
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
