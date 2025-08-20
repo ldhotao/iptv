@@ -116,11 +116,12 @@
     "ua": "okhttp/3.15"
     },
     {
-    "name": "5008[github]",
-    "type": 0,
-    "url": "https://raw.dgithub.xyz/cxr9912/cxr2025/refs/heads/main/5008.m3u",
-    "ua": "okhttp/3.15",
-    "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+     "name": "💔3043(翻墙)BeeSport直播(python)",
+      "type": 3,
+      "api": "https://3043.kstore.space/bhvip/bh/python/live_beesport.py",
+      "ext": {},
+      "header": {
+        "Referer": "https://p.m82xg4z0cdbz7.com"
     },
     {
   "name":"🥎gggg.nzk",
