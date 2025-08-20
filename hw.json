@@ -118,7 +118,7 @@
     {
      "name": "💔3043(翻墙)BeeSport直播(python)",
       "type": 3,
-      "url": "https://3043.kstore.space/bhvip/bh/python/live_beesport.py",
+      "api": "https://3043.kstore.space/bhvip/bh/python/live_beesport.py",
       "ext": {},
       "header": {
         "Referer": "https://p.m82xg4z0cdbz7.com"
