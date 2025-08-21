@@ -29,7 +29,7 @@
       "name": "🚓auto-iptv直播",
       "type":0,
       "url":"http://47.120.41.246:8899/zb.txt",
-      "ext": {}
+      "playerType":1
     },
     {
       "name": "gd",
@@ -91,12 +91,13 @@
       "ext": {}
     },
     {
-      "name": "🥎ggg.nzk",
-  "boot": true,
-  "type":0,
-    "url": "http://rihou.cc:555/ggg.nzk",
-  "playerType":2,
-    "ua": "judy/5.2.1"
+      "name": "💔gggg.nzk",
+       "type": 0,
+            "url": "http://rihou.cc:555/gggg.nzk",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
       "name": "kdsb",
@@ -105,14 +106,10 @@
       "ext": {}
     },
     {
-  "name":"内置测测",
-  "boot": true,
-  "type":0,
-  "url":"https://itv-list.myukj.cn/list/itv.m3u",
-  "playerType":1,
-  "ua":"70bd564ac1ae0801",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+      "name": "🌸快直播(20250608)",
+"type": 3,
+"api": "https://raw.dgithub.xyz/cxr9912/cxr2025/refs/heads/main/kzb.py",
+"ext": "68747470733a2f2f6a7a62356b716c6e2e6875616a69616564752e636f6d2f70726f642d6170692f697074762f676574497074764c697374"
   },
     {
     "name": "suxuang",
