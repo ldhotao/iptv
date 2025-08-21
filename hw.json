@@ -45,9 +45,15 @@
       "ext": {}
     },
     {
-      "name": "lixiao-1-98",
-      "type": 0,
-      "url": "https://gitee.com/lixiao-1-98/iptv/raw/master/ipv6.m3u",
+      "name": "海星体育",
+      "type": 3,
+      "api": "http://rihou.cc:555/海星体育.py",
+      "ext": {}
+    },
+    {
+      "name": "高清体育",
+      "type": 3,
+      "api": "http://rihou.cc:555/高清体育.py",
       "ext": {}
     },
     {
