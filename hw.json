@@ -112,10 +112,12 @@
       "ext": {}
     },
     {
-      "name": "fafa002",
+      "name": "💔💎易发APP💎💔",
       "type": 0,
       "url": "https://raw.dgithub.xyz/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
-      "ext": {}
+      "playerType": 1,
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
       "name" : "💔SmarTV(pendy.dpdns)群友分享 20250803🧑🏻‍🌾",
