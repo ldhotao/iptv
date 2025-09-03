@@ -50,6 +50,14 @@
       "ua":"c1c42b9e0d9e3a3a",
       "ext": {}
     },
+    
+"name": "📺青龙电视",
+"type": 0,
+"url": "https://d.kstore.dev/download/15366/6988.txt",
+"ua": "okhttp/5.0.0-alpha.14",
+"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+},
     {
       "name": "海星体育",
       "type": 3,
