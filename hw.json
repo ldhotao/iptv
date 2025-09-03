@@ -107,11 +107,13 @@
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "🍈📺4gtv 美东clawcloudrun部署 20250901 【挂T💔】",
-            "type": "0",
-            "url": "http://4gtv2025002.3556578307.qzz.io/?type=m3u&proxy=false",
-	  "playerType":2,
-   "ext": { }
+       "name": "📺⛲China TV @专用订阅链接",
+            "type": 0,
+            "url": "https://live.tv.darwinchow.com/sub/02RUMRYcOmd8rytOxh5ztNUdYfOV7n/txt",
+            "playerType": 2,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "wwb521",
@@ -134,7 +136,7 @@
       "name": "🐟FeiYang牧场同步更新PG💔",
 				"type": 0,
 				"url": "http://sub.ottiptv.cc/iptv.m3u",
-				"ua": "okHttp/Mod-1.1.0",
+				"ua": "okHttp/Mod-1.2.0",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
 				"catchup": {
