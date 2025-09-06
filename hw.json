@@ -199,12 +199,9 @@
     "ua":  "okhttp/3.15"
     },
     {
-       "name" : "🧑🏻‍🌾♾️🍄mursor1985🧑🏻‍🌾",
+       "name" : "🧑🏻‍🧑🏻150.158.10.195:10880/zyj‍",
       "type": 0,
-      "playerType": 2,
-      "ua": "okHttp/Mod-1.0.1",
-      "url": "https://raw.dgithub.xyz/mursor1985/LIVE/refs/heads/main/iptv.m3u",
-      "timeout":10,
+      "url": "http://150.158.10.195:10880/zyj/zz/src/c0806b4d27ab29d9e8c7e0585964fbe1fb891663/tv.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
