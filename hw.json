@@ -199,13 +199,6 @@
     "ua":  "okhttp/3.15"
     },
     {
-       "name" : "🧑🏻‍🧑🏻150.158.10.195:10880/zyj‍",
-      "type": 0,
-      "url": "http://150.158.10.195:10880/zyj/zz/src/c0806b4d27ab29d9e8c7e0585964fbe1fb891663/tv.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
        "name": "🐟🐟🍄陈湘儒myTV🍄🐟🐟",
             "type": 0,
             "url": "https://raw.dgithub.xyz/cxr9912/cxr2025/refs/heads/main/my.txt",
