@@ -216,9 +216,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-       "name": "🐟🐟🍄陈湘儒myTV🍄🐟🐟",
+       "name": "🐟🐟🍄szwxk🍄🐟🐟",
             "type": 0,
-            "url": "https://raw.dgithub.xyz/cxr9912/cxr2025/refs/heads/main/my.txt",
+            "url": "https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u",
            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
     }
