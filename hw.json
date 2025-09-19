@@ -144,12 +144,6 @@
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
-    "name": "cqshushu",
-    "type": 0,
-    "url": "https://raw.dgithub.xyz/cqshushu/tvjk/refs/heads/main/all.txt",
-    "ext": {}
-    },
-    {
       "name": "🌸快直播(20250608)",
 "type": 3,
 "api": "https://raw.dgithub.xyz/cxr9912/cxr2025/refs/heads/main/kzb.py",
@@ -214,7 +208,7 @@
             "url": "https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u",
            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
-    },
+    }
    ],
     "headers": [
         {
